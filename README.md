@@ -14,8 +14,7 @@ This template is minimalist, including only Prettier and ESLint. You can format 
 At the top of the file list, click the "Use this template" button.
 
 2. **Select "Create a new repository":**
-
-![How to create a new repository](https://docs.github.com/assets/cb-76823/mw-1440/images/help/repository/use-this-template-button.webp)
+![create-repository.png](docs/create-repository.png)
 
 3. **Name Your Repository:**
 
